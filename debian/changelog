@@ -2,4 +2,4 @@ eliloader (0.1-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
- -- Mike McClurg <mike@doctor>  Tue, 13 Sep 2011 10:27:29 +0100
+ -- Mike McClurg <mike.mcclurg@citrix.com>  Tue, 13 Sep 2011 10:27:29 +0100
