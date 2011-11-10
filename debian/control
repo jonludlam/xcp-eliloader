@@ -1,0 +1,19 @@
+Source: eliloader
+Section: admin
+Priority: extra
+Maintainer: Mike McClurg <mike.mcclurg@citrix.com>
+Build-Depends: debhelper (>= 8.0.0), python-dev (>= 2.6)
+XS-Python-Version: >= 2.6
+Standards-Version: 3.9.2
+Homepage: https://github.com/xen-org
+
+Package: xcp-eliloader
+Architecture: all
+Depends: ${misc:Depends}
+Enhances: xcp-xapi
+Description: XenAPI's bootloader for EL-based guests
+ The Xen Cloud Platform (XCP) is an open source enterprise-ready
+ server virtualization and cloud computing platform, delivering the
+ Xen Hypervisor with support for a range of guest operating
+ systems. This package provides a bootloader for EL-based Linux
+ distributions.
