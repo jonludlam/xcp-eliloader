@@ -1,0 +1,11 @@
+--- a/eliloader
++++ b/eliloader
+@@ -80,7 +80,7 @@
+     DISTRO_RHLIKE: 1, DISTRO_SLESLIKE: 2, DISTRO_DEBIANLIKE: 1, DISTRO_PYGRUB: 1
+     }
+ 
+-guest_installer_dir = "/opt/xensource/packages/files/guest-installer"
++guest_installer_dir = "/usr/lib/xen-common/xapi/packages/files/guest-installer"
+ mapfiles = [ f for f in os.listdir(guest_installer_dir) if f.endswith('.map') ]
+ 
+ # We can sometimes tweak an installer's initrd to give it extra features, e.g.

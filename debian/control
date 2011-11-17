@@ -1,4 +1,4 @@
-Source: eliloader
+Source: xcp-eliloader
 Section: admin
 Priority: extra
 Maintainer: Mike McClurg <mike.mcclurg@citrix.com>
