@@ -1,6 +1,7 @@
 xcp-eliloader (0.1-4) unstable; urgency=low
 
   * Add manpage for eliloader
+  * Expand description in debian/control
   * Fix minor dependency issues
   * Fix wrong email addresses in README and changelog
 
