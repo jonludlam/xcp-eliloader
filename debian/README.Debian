@@ -4,4 +4,4 @@ eliloader for Debian
 eliloader is part of a larger package in the XCP appliance. Here we have
 stripped it down and are just installing the bare essentials.
 
- -- Mike McClurg <mike@doctor>  Tue, 13 Sep 2011 10:27:29 +0100
+ -- Mike McClurg <mike.mcclurg@citrix.com>  Tue, 13 Sep 2011 10:27:29 +0100
