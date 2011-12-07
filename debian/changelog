@@ -1,3 +1,11 @@
+xcp-eliloader (0.1-4) unstable; urgency=low
+
+  * Add manpage for eliloader
+  * Fix minor dependency issues
+  * Fix wrong email addresses in README and changelog
+
+ -- Mike McClurg <mike.mcclurg@citrix.com>  Wed, 07 Dec 2011 12:12:57 +0000
+
 xcp-eliloader (0.1-3) unstable; urgency=low
 
   * Create a required directory
