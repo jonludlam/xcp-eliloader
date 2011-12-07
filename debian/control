@@ -1,7 +1,8 @@
 Source: xcp-eliloader
 Section: admin
 Priority: extra
-Maintainer: Mike McClurg <mike.mcclurg@citrix.com>
+Maintainer: Pkg Xen <pkg-xen-devel@lists.alioth.debian.org>
+Uploaders: Jon Ludlam <jonathan.ludlam@eu.citrix.com>, Thomas Goirand <zigo@debian.org>, Mike McClurg <mike.mcclurg@citrix.com>
 Build-Depends: debhelper (>= 8.0.0), python (>= 2.6)
 XS-Python-Version: >= 2.6
 Standards-Version: 3.9.2
