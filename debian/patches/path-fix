@@ -1,3 +1,4 @@
+Description: De-optify guest_installer_dir path.
 --- a/eliloader
 +++ b/eliloader
 @@ -80,7 +80,7 @@
