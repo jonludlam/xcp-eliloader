@@ -6,7 +6,7 @@ Description: De-optify guest_installer_dir path.
      }
  
 -guest_installer_dir = "/opt/xensource/packages/files/guest-installer"
-+guest_installer_dir = "/usr/lib/xen-common/xapi/packages/files/guest-installer"
++guest_installer_dir = "/usr/share/xcp/packages/files/guest-installer"
  mapfiles = [ f for f in os.listdir(guest_installer_dir) if f.endswith('.map') ]
  
  # We can sometimes tweak an installer's initrd to give it extra features, e.g.
