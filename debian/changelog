@@ -1,3 +1,9 @@
+xcp-eliloader (0.1-6) unstable; urgency=low
+
+  * xapi-autobuilder automatic changelog bump
+
+ -- Mike McClurg <mike.mcclurg@citrix.com>  Thu, 22 Dec 2011 12:49:49 +0000
+
 xcp-eliloader (0.1-5) oneiric; urgency=low
 
   * Fix the guest-installer directory path
